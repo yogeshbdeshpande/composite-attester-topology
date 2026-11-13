@@ -1,17 +1,17 @@
 ---
 
-title: Composite Attester Evidence 
+title: Composite Attester Evidence
 abbrev: "Composite Evidence"
 category: info
 
 docname: draft-ydb-composite-attester-evidence-latest
-submissiontype: IETF  
+submissiontype: IETF
 number:
 date:
 consensus: true
 v: 3
-area: Security
-workgroup: RATS
+# area: Security
+# workgroup: RATS
 
 stand_alone: yes
 
